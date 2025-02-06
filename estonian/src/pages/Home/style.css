@@ -1,0 +1,11 @@
+.course-container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 2rem;
+	background-color: white;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.verb-highlight{
+	color: brown;
+}
