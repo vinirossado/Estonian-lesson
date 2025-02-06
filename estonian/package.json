@@ -7,9 +7,11 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@tailwindcss/vite": "^4.0.4",
 		"preact": "^10.25.3",
 		"preact-iso": "^2.9.0",
-		"preact-render-to-string": "^6.5.13"
+		"preact-render-to-string": "^6.5.13",
+		"tailwindcss": "^4.0.4"
 	},
 	"devDependencies": {
 		"@preact/preset-vite": "^2.9.3",
