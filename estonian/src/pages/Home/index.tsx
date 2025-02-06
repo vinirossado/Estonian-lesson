@@ -98,7 +98,7 @@ export function Home() {
 	];
 
 	return (
-		<div class="course-container">
+		<div class="max-w-screen-2xl mx-auto bg-white shadow p-2">
 			<h1 class="text-3xl font-bold mb-6">Estonian Language Course A2</h1>
 
 			<LanguageSwitcher />
