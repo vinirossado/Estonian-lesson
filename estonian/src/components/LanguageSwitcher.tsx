@@ -4,7 +4,7 @@ export const LanguageSwitcher = () => {
     const { language, setLanguage } = useTranslation();
 
     return (
-        <div class="container">
+        <div >
             {language === 'en' ? (
                 <button
                     class="bg-white text-gray-700 font-semibold py-2 px-4 "
